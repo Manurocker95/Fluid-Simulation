@@ -1,1 +1,3 @@
 # Fluid Simulation
+
+Fluid simulation made in C++ with advection, ink...
